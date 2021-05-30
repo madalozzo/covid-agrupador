@@ -1,0 +1,15 @@
+{
+  "name": "agrupador",
+  "version": "0.1.0",
+  "description": "agrupa dados separando por municipios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "n-readlines": "^1.0.1"
+  }
+}
